@@ -2,8 +2,8 @@
 # Ultimate Cheat Sheets for Bash/Python/SQL/Scala __
 
 Welcome to the Ultimate Cheat Sheets repository, where you can find comprehensive guides and examples for Linux Commands, Python, SQL, and Scala. Whether you're a beginner looking to get started or an experienced developer seeking a quick reference, this repository has something for everyone.
-
-## What's Inside
+ 
+## What's Inside _  
 
 This repository is divided into four main sections, each dedicated to a specific skill/tool. Click on the links below to explore:
 
