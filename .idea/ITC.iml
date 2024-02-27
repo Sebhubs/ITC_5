@@ -3,6 +3,7 @@
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
     <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/HADOOP/Spark/Spark_with_Python_Jenkins/venv" />
       <excludeFolder url="file://$MODULE_DIR$/HADOOP/Spark/Test_Spark_Python_Jenkins/venv" />
     </content>
     <orderEntry type="inheritedJdk" />
